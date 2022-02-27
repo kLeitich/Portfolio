@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Start of Banner */
@@ -49,6 +50,7 @@
 /* start of about */
 
 .about {
+    padding: 5% 10% 2% 10%;
     display: flex;
     background-color: white;
 }
@@ -65,7 +67,7 @@
 }
 
 .atext {
-    padding-top: 10%;
+    padding: 0% 5% 2% 2%;
     justify-content: center;
     text-align: center;
     width: 50%;
@@ -97,7 +99,7 @@
     justify-content: space-evenly;
 }
 .role{
-    padding: 15%;
+    padding: 10%;
 }
 .winfo{
     display: flex;
@@ -136,7 +138,7 @@
 /* start of portfolio */
 
 .portfolio{
-    padding:  10% 10% 0 10%;
+    padding:  5% 10% 0 10%;
 }
 .portfolio h1{
     padding-bottom: 3%;
@@ -240,7 +242,7 @@
 
 /* end of .contact */
 
-/* start of end */
+/* start of socials */
 .socials{
     padding: 1% 10% 0 10%;
 }
@@ -269,3 +271,5 @@
 .myname{
     width: 20%;
 }
+
+/* end of socials */
