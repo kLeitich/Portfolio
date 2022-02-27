@@ -136,7 +136,7 @@
 /* start of portfolio */
 
 .portfolio{
-    padding: 10%;
+    padding:  10% 10% 0 10%;
 }
 .portfolio h1{
     padding-bottom: 3%;
@@ -169,7 +169,7 @@
   /* start of clients */
 .client{
       background-color: whitesmoke;
-      padding: 10%;
+      padding:  10% 10% 0 10%;
   }
   .client h1{
       padding-bottom: 3%;
@@ -182,7 +182,7 @@
 
 
 .testmonial{
-      padding: 10%;
+      padding:  10% 10% 1% 10%;
   }
 
   .peopleall{
@@ -196,3 +196,43 @@
       justify-content: center;
       align-items: center;
   }
+/* end of testimonial */
+
+/* start of contact info */
+.contact{
+    padding: 5% 10% 0 10%;
+    color: white;
+    background-image: url(images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+.contacts{
+    display: flex;
+}
+.cinfo{
+    padding: 10%;
+    list-style: inside;
+}
+.cform{
+    padding: 10%;
+}
+.cinfo h4{
+    padding: 5%;
+    font-size: x-large;
+}
+.cform h5{
+    padding: 5%;
+    font-size: x-large;
+}
+
+/* .cinfo li{
+    color: white;
+    list-style-image: url(<span class="iconify" data-icon="ps:facebook-places"></span>);
+} */
+
+.cform button{
+    background-color: transparent;
+    color: white;
+    padding: 2%;
+}
