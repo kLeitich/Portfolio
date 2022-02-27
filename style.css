@@ -44,6 +44,15 @@
     font-size: xx-large;
     justify-items: center;
 }
+.intro button{
+    background-color: transparent;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: medium;
+    color: white;
+}
 
 /* End of banner */
 
@@ -73,7 +82,7 @@
     width: 50%;
 }
 
-.atext button {
+.atext button{
     background-color: darkslategray;
     padding-left: 2%;
     padding-right: 2%;
