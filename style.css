@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Start of Banner */
+
+.banner{
+    background-image: url(images/rami-al-zayat-w33-zg-dNL4-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+   color: white;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    font-size: xx-large;
+    /* margin-left: 10%; */
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    margin-right: 10%;
+
+}
+.menu li{
+    padding: 3%;
+}
+.intro{
+    /* display: inline;
+    justify-content: center; */
+    padding-top: 300px;
+    margin-left: 17%;
+    font-size: xx-large;
+    justify-items: center;
+}
+
+/* End of banner */
+
+/* start of about */
+
+.about{
+    display: flex;
+}
+.apic{
+    height: 100%;
+    width: 100%;
+}
