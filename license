@@ -1,37 +1,3 @@
-# PORTFOLIO
-
-
-Website link |
-Created using github: https://kleitich.github.io/Portfolio/
-
- 
-## Table of Contents
-  - [Project Description](#description)
-  - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
-  - [License](#license)
-  - [Author Information](#author-information)
-
-## Project Description
-This is a website that showcases:
- * About me
- * Skills
- * My projects
- * Recent clients
- * Testimonials
- * Contacts
-
-## Technologies Used
-* HTML  - structure of the page.
-* CSS - styling of the page.
-
-
-## Installation
-* Make Sure You have Access to a browser through a device or pc
-* Click on the live Link in the About section
-* Enjoy!!!
-  
-## License
 MIT License
 
 Copyright (c) 2022 Kevin Leitich
@@ -53,7 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Author Information
-  - Kevin Leitich
-  - Email: kevin.leitich@student.moringaschool.com
