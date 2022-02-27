@@ -163,3 +163,19 @@
     padding-right: 20px;
     list-style:inside;
   }
+
+  /* end of portfolio */
+
+  /* start of clients */
+  .client{
+      background-color: whitesmoke;
+      padding: 10%;
+  }
+  .client h1{
+      padding-bottom: 3%;
+  }
+
+  .clpic{
+      /* display: grid;
+      grid-template-columns: auto auto auto auto; */
+  }
