@@ -235,4 +235,37 @@
     background-color: transparent;
     color: white;
     padding: 2%;
+    
+}
+
+/* end of .contact */
+
+/* start of end */
+.socials{
+    padding: 1% 10% 0 10%;
+}
+.end{
+    display: flex;
+    
+}
+
+.end .socialmedia{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.end .socialmedia img{
+    width: 10%;
+    
+}
+
+.copyright{
+    width: 20%;
+}
+.socialmedia{
+    width: 60%;
+}
+.myname{
+    width: 20%;
 }
