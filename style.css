@@ -106,8 +106,6 @@
 
 }
 .iconify{
-    border-radius: 50%;
-    border: solid, darkslategray 1px;
     padding: 3%;
     color: darkslategray;
     height: 100px;
@@ -124,10 +122,20 @@
     align-items: center;
     color: white;
     font-size: xx-large;
+    font-weight: bolder;
     /* height: auto; */
     width: 100%;
 }
 
 .cstat{
     padding: 5%;
+}
+
+
+
+.portpic{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-items: center;
+    /* padding: 10%; */
 }
