@@ -131,11 +131,35 @@
     padding: 5%;
 }
 
+/* end of stat */
 
+/* start of portfolio */
 
+.portfolio{
+    padding: 10%;
+}
+.portfolio h1{
+    padding-bottom: 3%;
+}
 .portpic{
     display: grid;
     grid-template-columns: auto auto auto auto;
-    justify-items: center;
+    position: relative;
+
     /* padding: 10%; */
 }
+.pic{
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    background-color: black;
+    opacity: 0.6;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style:inside;
+  }
