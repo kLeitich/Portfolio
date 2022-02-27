@@ -167,15 +167,32 @@
   /* end of portfolio */
 
   /* start of clients */
-  .client{
+.client{
       background-color: whitesmoke;
       padding: 10%;
   }
   .client h1{
       padding-bottom: 3%;
+}
+
+  /* end od clients */
+
+
+  /* start of testimonial */
+
+
+.testmonial{
+      padding: 10%;
   }
 
-  .clpic{
-      /* display: grid;
-      grid-template-columns: auto auto auto auto; */
+  .peopleall{
+      padding-top: 3%;
+      display: grid;
+      grid-template-columns: auto auto auto;
+      justify-content: space-evenly;
+  }
+  .ppic{
+      display: flex;
+      justify-content: center;
+      align-items: center;
   }
