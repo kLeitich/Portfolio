@@ -71,12 +71,12 @@
 
 .apic img {
     border-radius: 10%;
-    height: auto;
+    height: 100%;
     max-width: 100%;
 }
 
 .atext {
-    padding: 0% 5% 2% 2%;
+    padding: 0% 5% 2% 0%;
     justify-content: center;
     text-align: center;
     width: 50%;
